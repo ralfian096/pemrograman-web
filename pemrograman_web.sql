@@ -70,7 +70,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `name`, `email`, `role`, `password`, `photo`, `created_at`, `updated_at`) VALUES
 (5, 'Yusuf Eka Wicaksana', 'ekayusuf.wicaksana@gmail.com', 'user', '$2y$10$rLNoxFGQoNddoiWy/ebYdOkjhU0ff14xHdXPc2yJIi2APAWvQ.Cra', NULL, '2023-10-26 13:45:09', NULL),
 (7, 'Admin', 'admin@mail.com', 'admin', '$2y$10$UYjyjmUMTnRCYAMbJ/Lo..ADirAVYQeP1N1WFhYEbLc3ka3ourgMy', NULL, '2023-11-10 09:13:30', NULL),
-(9, 'Muhammad Rifky Alfian', 'if22.muhammadalfian@mhs.ubpkarawang.ac.id', 'user', '$2y$10$ILrmVGiyGuBOdvOlgtqmieiZfZXpnlv.MU50/2EhSSeRX3gUn15Ke', NULL, '2023-11-10 09:43:30', NULL);
+(9, 'Muhammad Rifky Alfian', 'user@mail.com', 'user', '$2y$10$ILrmVGiyGuBOdvOlgtqmieiZfZXpnlv.MU50/2EhSSeRX3gUn15Ke', NULL, '2023-11-10 09:43:30', NULL);
 
 --
 -- Indexes for dumped tables
